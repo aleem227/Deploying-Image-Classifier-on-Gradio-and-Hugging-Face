@@ -1,2 +1,13 @@
-# Deploying-Image-Classifier-on-Gradio-and-Hugging-Face
-Following my last "Image-Classifier-using-ResNet-18" repository, I've build a Gradio and HuggingFace Space for public use and learning
+---
+title: Classifier
+emoji: 🌖
+colorFrom: pink
+colorTo: pink
+sdk: gradio
+sdk_version: 3.16.2
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
